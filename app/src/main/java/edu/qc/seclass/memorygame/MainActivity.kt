@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var tvNumPairs: TextView
 
 
-    private var boardSize: BoardSize = BoardSize.MEDIUM
+    private var boardSize: BoardSize = BoardSize.EASY
 
 
 

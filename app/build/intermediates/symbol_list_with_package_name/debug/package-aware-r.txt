@@ -2457,6 +2457,9 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_format_list_numbered_24
+drawable ic_baseline_settings_24
+drawable ic_baseline_videogame_asset_24
 drawable ic_clock_black_24dp
 drawable ic_face
 drawable ic_flower
@@ -2619,6 +2622,7 @@ id beginning
 id bestChoice
 id blocking
 id bottom
+id bottom_navigation
 id bounce
 id bounceBoth
 id bounceEnd
@@ -2666,6 +2670,7 @@ id counterclockwise
 id currentState
 id custom
 id customPanel
+id custom_game_screen
 id cut
 id date_picker_actions
 id decelerate
@@ -2903,6 +2908,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id settings
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3008,6 +3014,7 @@ id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
 id west
+id winner_log
 id withText
 id withinBounds
 id wrap
@@ -3200,6 +3207,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu menu_bottom_navigation
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3244,6 +3252,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description

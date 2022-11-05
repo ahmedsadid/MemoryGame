@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_face
+drawable ic_flower
+drawable ic_gift
+drawable ic_heart
+drawable ic_home
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_lightning
+drawable ic_moon
+drawable ic_plane
+drawable ic_school
+drawable ic_send
+drawable ic_star
+drawable ic_work
+id cardView
+id imageButton
+id llGameInfo
+id rvBoard
+id tvNumMoves
+id tvNumPairs
+layout activity_main
+layout memory_card
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MemoryGame
+xml backup_rules
+xml data_extraction_rules

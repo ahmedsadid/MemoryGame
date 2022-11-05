@@ -27,12 +27,12 @@ Memory Game app will be in the entertainment category. This game will first give
 
 **Required Features**
 
-* User can customize size of (n x m) items in game
-* User can use their own pictures from gallery in the game
-* User can reset the game 
-* User can see how many pairs they have gotten
-* User will receive congratulations message after successfully completing a set
-* User can design their own custom game and name it, will be saved for future use 
+- [X] * User can customize size of (n x m) items in game
+- [ ] * User can use their own pictures from gallery in the game
+- [ ] * User can reset the game 
+- [ ] * User can see how many pairs they have gotten
+- [ ] * User will receive congratulations message after successfully completing a set
+- [ ] * User can design their own custom game and name it, will be saved for future use 
 
 
 **Stretch Features**

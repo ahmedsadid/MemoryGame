@@ -51,6 +51,9 @@ class MemoryBoardAdapter(
         fun bind(position: Int) {
             imageButton.setImageResource(cardImages[position])
             imageButton.setOnClickListener{
+
+
+
                 Log.i(TAG, "Clicked on position $position")
             }
 

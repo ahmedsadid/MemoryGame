@@ -1,4 +1,4 @@
-# Milestone 1 - Memory Game
+# Memory Game
 
 ## Table of Contents
 
@@ -34,6 +34,7 @@ Memory Game app will be in the entertainment category. This game will first give
 - [ ] * User will receive congratulations message after successfully completing a set
 - [ ] * User can design their own custom game and name it, will be saved for future use 
 
+<img src='memoryGameWeek1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Stretch Features**
 

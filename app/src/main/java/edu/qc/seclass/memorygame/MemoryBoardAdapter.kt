@@ -98,10 +98,11 @@ class MemoryBoardAdapter(
                         Log.i(TAG, "SCORE: " + score)
                         //blackout.visibility = ImageView.VISIBLE
                     }
-
                 }
 
-                //scoreDisplay.text = "Pairs: $score/4"
+                val mainView = LayoutInflater.from(context).inflate(R.layout.activity_main, null)
+                val scoreDisplay: TextView = mainView.findViewById(R.id.tvNumPairs) as TextView
+                scoreDisplay.text = "Pairs: $score/4"
             }
         }
 

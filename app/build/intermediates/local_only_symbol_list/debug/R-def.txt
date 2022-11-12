@@ -24,6 +24,7 @@ drawable ic_school
 drawable ic_send
 drawable ic_star
 drawable ic_work
+id blackout
 id bottom_navigation
 id cardView
 id custom_game_screen

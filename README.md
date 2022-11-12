@@ -39,7 +39,6 @@ Memory Game app will be in the entertainment category. This game will first give
 **Stretch Features**
 
 * Utilize camera to create game in real time
-* Allow to play with other people
 * Keeps track of progress and displays the score on the day they played 
 * Add Location feature and use an API to get the images of local monuments/scenery for the game
 
